@@ -6,3 +6,15 @@ This is built primarily for Roblox Studio, for hills or a smooth terrain. (Note 
 
 
 Example video here: https://gyazo.com/257c44c526c96c6ade90d1ebb4f4c0ef
+
+
+oh yeah you need these btw and python installed
+```
+pip install numpy
+```
+```
+pip install matplotlib
+```
+```
+pip install noise
+```
